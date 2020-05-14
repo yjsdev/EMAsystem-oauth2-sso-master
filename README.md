@@ -1,7 +1,7 @@
 # EMAsystem-oauth2-sso-master
 OAuth2 SSO
 ## 工程：
-####服务器
+####服务端
 --oauth2-sso-auth-server 
 ####测试客户端*2
 --oauth2-sso-client-member 
